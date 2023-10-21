@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/blogging-app.git
+git clone https://github.com/DARSHANR007/blogging-app.git
 Navigate to the Project Folder:
 
 bash
